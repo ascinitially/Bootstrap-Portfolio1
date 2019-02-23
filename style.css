@@ -1,0 +1,33 @@
+.navbar-brand {
+    background: #4aaaa5;
+}
+
+body {
+    background-image:url(assets/white-waves.png.jpg);
+}
+
+footer {
+    background-color:#666666;
+    height:50px;
+    padding-top: 15px;
+    border-top: solid 5px #4aaaa5;
+}
+
+.navbar-nav {
+    float:right;
+    position: relative;
+}
+
+.text {
+    color:#777777;
+}
+
+.myphoto {
+    padding:20px;
+}
+
+.about {
+    padding:5px;
+    border: solid 2px #666666;
+    background-color:white;
+}
